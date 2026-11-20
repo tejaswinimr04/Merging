@@ -1,2 +1,2 @@
-list=['apple','banana','orange']
+list=['apple','banana','orangeteam']
 print(len(list))
